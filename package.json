@@ -4,11 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
     "start": "pm2-runtime start prod.config.js",
-=======
-    "start":"pm2 start prod.config.js",
->>>>>>> 7c79ed3118bd056236d791dd023e388935f772bf
     "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
